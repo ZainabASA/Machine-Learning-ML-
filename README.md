@@ -1,2 +1,2 @@
 # Machine-Learning-ML-
-Explian  implement  machine learning algorithms
+Explain & implement  machine learning algorithms
